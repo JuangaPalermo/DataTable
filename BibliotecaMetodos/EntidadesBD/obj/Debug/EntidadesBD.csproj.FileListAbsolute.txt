@@ -1,0 +1,6 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\EntidadesBD\bin\Debug\EntidadesBD.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\EntidadesBD\bin\Debug\EntidadesBD.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\EntidadesBD\obj\Debug\EntidadesBD.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\EntidadesBD\obj\Debug\EntidadesBD.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\EntidadesBD\obj\Debug\EntidadesBD.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\EntidadesBD\obj\Debug\EntidadesBD.pdb

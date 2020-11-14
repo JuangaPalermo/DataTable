@@ -1,0 +1,15 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\bin\Debug\BibliotecaMetodos.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\bin\Debug\BibliotecaMetodos.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\bin\Debug\BibliotecaMetodos.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.Form1.resources
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.Properties.Resources.resources
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.csproj.GenerateResource.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.RowState.resources
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\bin\Debug\EntidadesBD.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\bin\Debug\EntidadesBD.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.frmProducto.resources
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\BibliotecaMetodos\BibliotecaMetodos\obj\Debug\BibliotecaMetodos.csproj.CopyComplete
